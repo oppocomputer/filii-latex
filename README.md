@@ -234,7 +234,7 @@ Voeg dit bestand toe aan je LaTeX-document door `\addbibresource{references.bib}
 \addbibresource{references.bib}
 ...
 
-In de tekst kan je verwijzer naar bronnen met \cite{key}.
+In de tekst kan je verwijzen naar bronnen met \cite{key}.
 
 % Onderstaande regel zet je in je document waar je een referentielijst wilt hebben
 \printbibliography
@@ -305,7 +305,7 @@ Hier zijn nog enkele tips die je kan gebruiken in je LaTeX carriere.
 - Houd projecten foutloos.
 - Let op onder/overfull `\hbox` waarschuwingen; vaak onschadelijk.
 - Begin elke zin op een nieuwe regel.
-- Voeg een lege regel toe in block equations door deze te kommentariëren met `%`.
+- Voeg een lege regel toe in block equations door deze te commentariëren met `%`.
 - Undefined control sequence → waarschijnlijk een ontbrekende package.
 - Wees voorzichtig met copy-paste.
 - Maak goed gebruik van mappen en submappen.
