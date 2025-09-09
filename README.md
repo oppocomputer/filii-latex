@@ -111,7 +111,7 @@ Met behulp van de `graphicx` package kun je eenvoudig afbeeldingen invoegen en a
 In dit gedeelte leer je hoe je figuren correct in je document kunt plaatsen, hoe je meerdere figuren naast elkaar kunt weergeven, en hoe je onderschriften en labels toevoegt voor referenties.
 
 ## Figure Environment
-Wil je een figuur toevoegen aan jouw document dan kan dit met de `figure` environment die met de `graphicx` package beschikbaar is. Overweeg om eventueel [pikachu_transparent.png](https://raw.githubusercontent.com/Allyson-Robert/filii-latex/refs/heads/main/img/pikachu_transparent.png) te gebruiken.
+Wil je een figuur toevoegen aan jouw document dan kan dit met de `figure` environment die met de `graphicx` package beschikbaar is. Overweeg eventueel [pikachu_transparent.png](https://raw.githubusercontent.com/Allyson-Robert/filii-latex/refs/heads/main/img/pikachu_transparent.png) te gebruiken.
 ```latex
 \usepackage{graphicx}
 \usepackage{float}
