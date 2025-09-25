@@ -343,3 +343,10 @@ Veel succes met je LaTeX projecten!
 
 ---
 <sup>Last edited: September 4th, 2024<sup>
+
+<!-- Fix mobile loading of page -->
+<style>
+  img {
+    max-width:40%;
+  }
+</style>
